@@ -1,2 +1,2 @@
-# Project Euler
- Problems' solutions in c++
+# Machine Learning 
+ Apenas alguns scripts
